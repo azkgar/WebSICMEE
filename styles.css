@@ -42,13 +42,21 @@ body{
   color: #ed1c23;
 }
 /* header section */
-.header-img{
-  width:100%;
+.img-container{
+  position: absolute;
 }
-
+.header-img{
+  width: 100%;
+}
+.text-container{
+  position:relative;
+}
 /******************************ID SECTION************************************/
 /* navbar section*/
 #logo-nav{
   width: 15rem;
 }
 /* header section */
+#header{
+  margin-top: 6rem;
+}
