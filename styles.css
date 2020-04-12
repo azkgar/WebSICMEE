@@ -8,6 +8,10 @@ body{
 .align{
   padding: 1% 8%;
 }
+.title{
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 800;
+}
 .white{
   background-color: #fff;
 }
@@ -34,8 +38,17 @@ body{
 .nav-item{
   padding: 0 18px;
 }
+.red-hover:hover{
+  color: #ed1c23;
+}
+/* header section */
+.header-img{
+  width:100%;
+}
+
 /******************************ID SECTION************************************/
 /* navbar section*/
 #logo-nav{
   width: 15rem;
 }
+/* header section */
