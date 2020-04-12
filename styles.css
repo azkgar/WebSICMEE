@@ -60,6 +60,16 @@ body{
   position: relative;
   padding-top: 15%;
 }
+.header-main-title{
+  letter-spacing: 1rem;
+  margin-bottom: 3%;
+}
+.header-subtitle{
+  margin-bottom: 1.5%;
+}
+.header-text{
+  margin-bottom: 3%;
+}
 /******************************ID SECTION************************************/
 /* navbar section*/
 #logo-nav{
@@ -68,5 +78,4 @@ body{
 /* header section */
 #header{
   margin-top: 6rem;
-  height: 20rem;
 }
