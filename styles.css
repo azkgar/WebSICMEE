@@ -41,6 +41,14 @@ body{
 .red-hover:hover{
   color: #ed1c23;
 }
+.navbar-toggler-icon{
+  color: #000;
+  font-size: 25px;
+  padding-top: 5px;
+}
+.navbar-toggler-icon:hover{
+  color: #ed1c23;
+}
 /* header section */
 .img-container{
   position: absolute;
@@ -49,7 +57,8 @@ body{
   width: 100%;
 }
 .text-container{
-  position:relative;
+  position: relative;
+  padding-top: 15%;
 }
 /******************************ID SECTION************************************/
 /* navbar section*/
@@ -59,4 +68,5 @@ body{
 /* header section */
 #header{
   margin-top: 6rem;
+  height: 20rem;
 }
