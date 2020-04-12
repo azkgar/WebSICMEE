@@ -1,14 +1,41 @@
 /******************************TAG SECTION***********************************/
+body{
+  font-family: "Sanchez", serif;
+  text-align: center;
+}
 /*****************************CLASS SECTION**********************************/
 /* generic classes */
 .align{
   padding: 1% 8%;
 }
+.white{
+  background-color: #fff;
+}
+.black{
+  background-color: #000;
+}
+.red {
+  background-color: #ed1c23;
+}
+.text-white{
+  color: #fff;
+}
+.text-red{
+  color: #ed1c23;
+}
+.text-black{
+  color: #000;
+}
 /* navbar section */
-.navbar-logo{
-  width: 15%;
+.navbar{
+  padding-top: 0;
+  padding-bottom: 0;
 }
 .nav-item{
-  margin: 0 7px;
+  padding: 0 18px;
 }
 /******************************ID SECTION************************************/
+/* navbar section*/
+#logo-nav{
+  width: 15rem;
+}
