@@ -66,9 +66,14 @@ body{
 }
 .header-subtitle{
   margin-bottom: 1.5%;
+  font-weight: 700;
 }
 .header-text{
   margin-bottom: 3%;
+}
+/* services section */
+.service-img{
+  width: 50%;
 }
 /******************************ID SECTION************************************/
 /* navbar section*/
@@ -78,4 +83,8 @@ body{
 /* header section */
 #header{
   margin-top: 6rem;
+}
+#services{
+  margin-top: 18rem;
+  position: relative;
 }
