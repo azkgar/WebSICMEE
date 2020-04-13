@@ -72,8 +72,20 @@ body{
   margin-bottom: 3%;
 }
 /* services section */
+.services-title{
+  letter-spacing: 0.2rem;
+  margin-bottom: 1%;
+  color: #ed1c23;
+}
+.services-container{
+  padding-top: 5%;
+}
 .service-img{
   width: 50%;
+  margin-top: 15%;
+  border-radius: 10%;
+  border: 2px solid;
+  margin-bottom: 5%;
 }
 /******************************ID SECTION************************************/
 /* navbar section*/
@@ -86,5 +98,6 @@ body{
 }
 #services{
   margin-top: 18rem;
+  padding-bottom: 3%;
   position: relative;
 }
